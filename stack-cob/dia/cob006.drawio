@@ -1,0 +1,50 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Página-1" id="tbhhrolYnf2YLyF_AGn1">
+    <mxGraphModel dx="1501" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gUQwB867zqCJYkILIy9S-1" value="COB006 - CALCULATE FINAL INVESTMENT VALUE AND DISPLAY DETAILS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gUQwB867zqCJYkILIy9S-3" target="gUQwB867zqCJYkILIy9S-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-3" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="67.5" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1CfjgjV-Pr6YKnk9muc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gUQwB867zqCJYkILIy9S-4" target="vgULqq0_0y--9K6N1HVh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="17.56" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;WS-CAPITAL&lt;div&gt;WS-MESES&lt;/div&gt;&lt;div&gt;WS-TAXA&lt;/div&gt;&lt;div&gt;WS-FINAL&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="65" y="170" width="105" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-18" value="&lt;div&gt;WS-CAPITAL&lt;div&gt;WS-MESES&lt;/div&gt;&lt;div&gt;WS-TAXA&lt;/div&gt;&lt;div&gt;WS-FINAL&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="62.5" y="466" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-19" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="566" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUQwB867zqCJYkILIy9S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gUQwB867zqCJYkILIy9S-18" target="gUQwB867zqCJYkILIy9S-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgULqq0_0y--9K6N1HVh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vgULqq0_0y--9K6N1HVh-1" target="lr2lktKazubZT7Ou9OAV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.00000000000006" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgULqq0_0y--9K6N1HVh-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;WS-CAPITAL&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WS-MESES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;WS-TAXA&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="65" y="286" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lr2lktKazubZT7Ou9OAV-1" value="WS-FINAL = WS-CAPITAL * (1 + WS-TAXA / 100) ** 3." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="378" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lr2lktKazubZT7Ou9OAV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lr2lktKazubZT7Ou9OAV-1" target="gUQwB867zqCJYkILIy9S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
