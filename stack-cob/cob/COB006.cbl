@@ -48,7 +48,8 @@
       *
        300-PROCESS-DATA SECTION.
       *                   M = C (1 + i)^t
-           COMPUTE WS-FINAL = WS-CAPITAL * (1 + WS-TAXA / 100) ** 3.
+           COMPUTE WS-FINAL = WS-CAPITAL * 
+                              (1 + WS-TAXA / 100) ** WS-MESES.
        300-PROCESS-DATA-END. EXIT.
       *
        400-PRINT-RESULTS SECTION.
@@ -68,5 +69,3 @@
        500-END-PROGRAM-END. EXIT.
       *
        END PROGRAM COB006.
-
-
