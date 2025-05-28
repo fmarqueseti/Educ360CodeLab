@@ -11,3 +11,4 @@
 | **005** | Final Balance Calculation after Payments | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/dia/cob005.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/cob/COB005.cbl) |
 | **006** | Calc final investment value and display details | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/dia/cob006.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/cob/COB006.cbl) |
 | **007** | Supermarket checkout simulation | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/dia/cob007.drawio) | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/cob/COB007.cbl) |
+| **008** | Read and Print sequential file records | -- | [Link](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/stack-cob/cob/COB008.cbl) |
