@@ -20,6 +20,7 @@ Here are the exercises and projects I've completed or am currently working on:
 
 - [Programming Logic](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/LOGIC_EN.md)
 - [COBOL Stack](https://github.com/fmarqueseti/Educ360CodeLab/blob/main/COBOL_EN.md)
+- [Final Project – Videoteca (Video Library)](https://github.com/fmarqueseti/Filmoteca-Educ360)
 
 ---
 
